@@ -1,6 +1,7 @@
 ---
 layout: post
-title:  "Thank you for using Biu!"
-date:   2016-12-07 19:48:12
+title:  "Github로 테마 사용해서 웹 사이트 띄우기"
+date:   2024-06-02 12:54:00
 ---
-It is a modified version of butane-jekyll-theme by [KayMW](https://github.com/RedL0tus).
+Java 수업 1일차 - Github로 테마 사용해서 웹 사이트 띄우기
+Github 사용, jekyll 사이트에서 테마 검색 후 적용함
