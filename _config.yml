@@ -9,7 +9,7 @@ url: "https://yourname.github.io" # the base hostname & protocol for your site
 twitter_username: KR_YTlaw80
 github_username:  YTlaw80
 
-disqus_shortname: law80
+disqus_shortname: KR_YTlaw80
 
 # Build settings
 include: [_pages]
