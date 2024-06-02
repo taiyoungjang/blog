@@ -1,7 +1,7 @@
 # Site settings
 title: 장성준의 기술 블로그
 description: >
-    Your description
+    기술 블로그 | 장성준
 author: KR_YTlaw80
 email: jangsjun0703@gmail.com
 baseurl: "" # the subpath of your site, e.g. /blog
