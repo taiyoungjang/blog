@@ -1,15 +1,15 @@
 # Site settings
-title: Your site
+title: 장성준의 기술 블로그
 description: >
     Your description
-author: Your name
-email: your@e.mail
+author: KR_YTlaw80
+email: jangsjun0703@gmail.com
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://yourname.github.io" # the base hostname & protocol for your site
 twitter_username: KR_YTlaw80
 github_username:  YTlaw80
 
-disqus_shortname: YourDisqusShortname
+disqus_shortname: law80
 
 # Build settings
 include: [_pages]
