@@ -1,13 +1,13 @@
 # Site settings
-title: Your site
+title: 장성준 기술 블로그
 description: >
-    Your description
-author: Your name
-email: your@e.mail
+    장성준의 기술 블로그
+author: KR_YTlaw80
+email: jangsjun0703@gmail.com
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://ytlaw80.github.io" # the base hostname & protocol for your site
-twitter_username: YourTwitter
-github_username:  YourGitHub
+youtube_username: @KR_YTlaw80
+github_username:  YTlaw80
 
 disqus_shortname: YourDisqusShortname
 
