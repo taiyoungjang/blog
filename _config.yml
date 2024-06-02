@@ -6,10 +6,7 @@ author: KR_YTlaw80
 email: jangsjun0703@gmail.com
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://ytlaw80.github.io/blog" # the base hostname & protocol for your site
-youtube_username: @KR_YTlaw80
-github_username:  YTlaw80
-
-disqus_shortname: YourDisqusShortname
+disqus_shortname: law80
 
 # Build settings
 include: [_pages]
