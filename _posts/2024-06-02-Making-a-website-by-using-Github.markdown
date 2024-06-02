@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Github로 테마 사용해서 웹 사이트 띄우기"
+title:  "Making a website by using Github"
 date:   2024-06-02 12:54:00
 ---
 Java 수업 1일차 - Github로 테마 사용해서 웹 사이트 띄우기
